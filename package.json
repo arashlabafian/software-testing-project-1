@@ -1,0 +1,16 @@
+{
+  "name": "arash-labafian",
+  "version": "1.0.0",
+  "description": "software testing project 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
